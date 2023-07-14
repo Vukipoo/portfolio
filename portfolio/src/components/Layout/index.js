@@ -1,5 +1,5 @@
 import './index.scss'
-import Sidebar from '../SideBar/index'
+import Sidebar from '../Sidebar'
 
 const Layout = () => {
     return <>
