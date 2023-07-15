@@ -10,11 +10,11 @@ const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
   const form = useRef()
 
-  useEffect(() => {
-    return setTimeout(() => {
-      setLetterClass('text-animate-hover')
-    }, 3000)
-  }, [])
+//   useEffect(() => {
+//     return setTimeout(() => {
+//       setLetterClass('text-animate-hover')
+//     }, 3000)
+//   }, [])
 
   const sendEmail = (e) => {
     e.preventDefault()
@@ -85,9 +85,9 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Vuk Perovic
+          Slobodan Gajić,
           <br />
-          San Diego,
+          Serbia,
           <br />
           Branka RadiČevića 19, 22000 <br />
           Sremska Mitrovica <br />
