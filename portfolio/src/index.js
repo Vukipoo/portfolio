@@ -20,8 +20,9 @@ root.render(
 reportWebVitals();
 
 //todo
-// change name
 // spice it up in my own way
 // emailjs
 // check out some whatver trail before publish
+// change skills square
+// send button
 // publish

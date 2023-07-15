@@ -1,6 +1,5 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import Loader from 'react-loaders'
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { useRef } from 'react'
 import emailjs from '@emailjs/browser'
 import AnimatedLetters from '../AnimatedLetters'
@@ -10,17 +9,16 @@ const Contact = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
   const form = useRef()
 
-//   useEffect(() => {
-//     return setTimeout(() => {
-//       setLetterClass('text-animate-hover')
-//     }, 3000)
-//   }, [])
-
   const sendEmail = (e) => {
     e.preventDefault()
 
     emailjs
-      .sendForm('gmail', 'template_YeJhZkgb', form.current, 'your-token')
+      .sendForm(
+        'service_wx44b2f',
+        'template_hosictd',
+        form.current,
+        '0eZAX9XxF6ko3eZAf'
+      )
       .then(
         () => {
           alert('Message successfully sent!')
@@ -84,7 +82,6 @@ const Contact = () => {
             </form>
           </div>
         </div>
-      
       </div>
       <Loader type="pacman" />
     </>
