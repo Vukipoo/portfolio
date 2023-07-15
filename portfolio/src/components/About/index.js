@@ -33,18 +33,22 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          Hello! My name is Vuk, and I am a front-end web developer with a strong background in the military.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          Front-end development has become my passion, and I am excited to transition into this field as my first job.
+          I am willing to invest the necessary time and effort, even working extra hours if needed,
+          to demonstrate my commitment and prove myself as a valuable asset to any team.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          Beyond my professional aspirations, I am also a dedicated father to a beautiful daughter.
+          Balancing the demands of parenthood while pursuing my career goals has taught me valuable skills
+          in time management, prioritization, and problem-solving.
+          </p>
+          <p>
+          I am confident that I can make a positive impact in any
+          front-end development role, and I am eager to contribute my expertise to a team that values
+          dedication, innovation, and collaboration.
           </p>
         </div>
 

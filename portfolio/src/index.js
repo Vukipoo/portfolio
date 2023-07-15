@@ -21,11 +21,7 @@ reportWebVitals();
 
 //todo
 // change name
-// remove portfolio and dashboard from sidebar
-// change github and linkedin links to mine
-// remove youtube and whatever else
-// change about page paragraph
 // spice it up in my own way
 // emailjs
-// check out some whatver trail before publishw
+// check out some whatver trail before publish
 // publish
