@@ -23,6 +23,11 @@ reportWebVitals();
 // spice it up in my own way
 // check out some whatver trail before publish
 // change skills square
-// send button
-// emailjs has a bug
 // publish
+
+//clothing store needs to be published
+//tic tac toe ai needs to be finished and published
+//monsters rolodex needs published
+//tesla clone published (it already might be, need to verify)
+//styling on portfolio page
+//need more complex projects built with react
