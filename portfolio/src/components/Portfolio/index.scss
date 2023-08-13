@@ -1,58 +1,103 @@
 .portfolio-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-    top: 25%;
-    border: 1px solid white;
-    width: 1200px;
-    left: 5.5%;
-    gap: 30px
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 25%;
+  border: 1px solid white;
+  width: 1200px;
+  left: 5.5%;
+  gap: 30px;
 }
 
 .portfolio-container div {
-    height: 250px;
-    width: 250px;
-    border: 1px solid black;
-    text-align: center;
-    color: green;
-    text-align: center;
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  text-align: center;
+  color: green;
+  text-align: center;
 
-    h2 {
-        
-    }
+  h2 {
+    position: relative;
+    bottom: 250px;
+  }
 }
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .crazy-cat-logo {
-    height: 150px;
-    width: 175px;
-    margin-top: 3px
+  height: 150px;
+  width: 175px;
+  margin-top: 3px;
+  position: relative;
+  bottom: 250px;
+  z-index: -1;
 }
 
-.tic-tac-toe-logo{
-    height: 150px;
-    width: 175px;
-    margin-top: 3px
+.tic-tac-toe-logo {
+  height: 150px;
+  width: 175px;
+  margin-top: 3px;
+  position: relative;
+  bottom: 250px;
+  z-index: -1;
 }
 
 .tesla-logo {
-    height: 150px;
-    width: 175px;
-    margin-top: 3px
+  height: 150px;
+  width: 175px;
+  margin-top: 3px;
+  position: relative;
+  bottom: 250px;
+  z-index: -1;
 }
 
-.monster-logo{ 
-    height: 150px;
-    width: 175px;
-    margin-top: 3px
+.monster-logo {
+  height: 150px;
+  width: 175px;
+  margin-top: 3px;
+  position: relative;
+  bottom: 250px;
+  z-index: -1;
 }
 
+.monsters-rolodex {
+  a.fill-div {
+    display: block;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+  }
+}
 
+.crazy-cat {
+  a.fill-div {
+    display: block;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+  }
+}
 
+.tic-tac-toe-ai {
+  a.fill-div {
+    display: block;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.tesla-clone {
+  a.fill-div {
+    display: block;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+  }
+}
