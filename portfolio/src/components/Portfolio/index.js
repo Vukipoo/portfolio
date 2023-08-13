@@ -17,9 +17,9 @@ const Portfolio = () => {
       <CrazyCatLogo className='crazy-cat-logo'/>
     </div>
     <div className = 'tic-tac-toe-ai'>
-    <a href="https://vukipoo.github.io/monsters-rolodex/" class="fill-div"></a>
+    <a href="https://vukipoo.github.io/clothing-store-2.0/" class="fill-div"></a>
       <h2>Tic Tac Toe against AI</h2>
-    <TicTacToeLogo className = 'tic-tac-toe-logo'/>
+    <h1 className = 'tic-tac-toe-logo'>Comming Soon</h1>
     </div>
     <div className = 'monsters-rolodex'>
     <a href="https://vukipoo.github.io/monsters-rolodex/" class="fill-div"></a>
@@ -29,7 +29,7 @@ const Portfolio = () => {
     <div className = 'tesla-clone'>
     <a href="https://vukipoo.github.io/monsters-rolodex/" class="fill-div"></a>
       <h2>Tesla Clone</h2>
-    <TeslaLogo className='tesla-logo'/>
+    <h1 className='tesla-logo'>Comming Soon</h1>
     </div>
     </div>
   )
