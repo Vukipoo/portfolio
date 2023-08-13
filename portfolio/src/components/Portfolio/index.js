@@ -12,7 +12,7 @@ const Portfolio = () => {
   return (
     <div className = 'portfolio-container'>
     <div className = 'crazy-cat'>
-    <a href="https://vukipoo.github.io/monsters-rolodex/" class="fill-div"></a>
+    <a href="https://vukipoo.github.io/clothing-store-2.0/" class="fill-div"></a>
       <h2>Crazy Cat Clothing</h2>
       <CrazyCatLogo className='crazy-cat-logo'/>
     </div>
