@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.431f047a.css",
-    "main.js": "/react-gh-pages/static/js/main.22cac8bc.js",
-    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
-    "static/media/CrazyCatLogo.svg": "/react-gh-pages/static/media/CrazyCatLogo.1dcbdd330e8168022197e910cd101547.svg",
-    "static/media/helvetica-neu.ttf": "/react-gh-pages/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/react-gh-pages/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/react-gh-pages/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff": "/react-gh-pages/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-gh-pages/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/MonsterLogo.svg": "/react-gh-pages/static/media/MonsterLogo.e0e78d71f95cca3c1e1aef18e0566fb6.svg",
-    "static/media/TeslaLogo.svg": "/react-gh-pages/static/media/TeslaLogo.ca6e1eefd247deb064b320d2c6aa7b6a.svg",
-    "static/media/TicTacToeLogo.svg": "/react-gh-pages/static/media/TicTacToeLogo.1e3ba2482e81cbea82303391439a4e33.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.431f047a.css.map": "/react-gh-pages/static/css/main.431f047a.css.map",
-    "main.22cac8bc.js.map": "/react-gh-pages/static/js/main.22cac8bc.js.map",
-    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.932dbce2.css",
+    "main.js": "/portfolio/static/js/main.ff487d64.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/CrazyCatLogo.svg": "/portfolio/static/media/CrazyCatLogo.1dcbdd330e8168022197e910cd101547.svg",
+    "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/MonsterLogo.svg": "/portfolio/static/media/MonsterLogo.e0e78d71f95cca3c1e1aef18e0566fb6.svg",
+    "static/media/TeslaLogo.svg": "/portfolio/static/media/TeslaLogo.ca6e1eefd247deb064b320d2c6aa7b6a.svg",
+    "static/media/TicTacToeLogo.svg": "/portfolio/static/media/TicTacToeLogo.1e3ba2482e81cbea82303391439a4e33.svg",
+    "index.html": "/portfolio/index.html",
+    "main.932dbce2.css.map": "/portfolio/static/css/main.932dbce2.css.map",
+    "main.ff487d64.js.map": "/portfolio/static/js/main.ff487d64.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.431f047a.css",
-    "static/js/main.22cac8bc.js"
+    "static/css/main.932dbce2.css",
+    "static/js/main.ff487d64.js"
   ]
 }
