@@ -1,9 +1,8 @@
 import React from 'react'
 import './index.scss'
 import { ReactComponent as CrazyCatLogo } from '../../assets/images/CrazyCatLogo.svg'
-import { ReactComponent as TicTacToeLogo } from '../../assets/images/TicTacToeLogo.svg'
+// import { ReactComponent as TicTacToeLogo } from '../../assets/images/TicTacToeLogo.svg'
 import { ReactComponent as MonsterLogo } from '../../assets/images/MonsterLogo.svg'
-import { ReactComponent as TeslaLogo } from '../../assets/images/TeslaLogo.svg'
 // import { ReactComponent as CrazyCatLogo } from '../../assets/CrazyCatLogo.svg'
 // import { ReactComponent as CrazyCatLogo } from '../../assets/CrazyCatLogo.svg'
 
@@ -26,10 +25,10 @@ const Portfolio = () => {
     <h2>Monsters Rolodex</h2>
     <MonsterLogo className ='monster-logo'/>
     </div>
-    <div className = 'tesla-clone'>
-    <a href="https://vukipoo.github.io/monsters-rolodex/" class="fill-div"></a>
-      <h2>Tesla Clone</h2>
-    <h1 className='tesla-logo'>Comming Soon</h1>
+    <div className = 'stoic-quote-generator'>
+    <a href="https://vukipoo.github.io/stoic-quote-machine/" class="fill-div"></a>
+      <h2>Stoic Quote Generator</h2>
+      <MonsterLogo className ='stoic-quote-logo'/>
     </div>
     </div>
   )
